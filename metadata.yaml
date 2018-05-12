@@ -1,0 +1,38 @@
+_repo: With-the-Dyaks-of-BorneoA-Tale-of-the-Head-Hunters_44484
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rainey, W. (William)
+    aliases:
+    - Rainey, H. W. (H. William)
+    - Rainey, William
+    - Rainey, W.
+    birthdate: 1852
+    deathdate: 1936
+    gutenberg_agent_id: '9704'
+    url: http://www.gutenberg.org/2009/agents/9704
+covers:
+- cover_type: archival
+  image_path: 44484-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Brereton, F. S. (Frederick Sadleir)
+    alias: Brereton, Frederick Sadleir
+    birthdate: 1872
+    gutenberg_agent_id: '34828'
+    url: http://www.gutenberg.org/2009/agents/34828
+description: ''
+gutenberg_issued: '2013-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44484'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Headhunters -- Borneo -- Juvenile fiction'
+- !lcsh 'Dayak (Indonesian people) -- Borneo -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'With the Dyaks of Borneo: A Tale of the Head Hunters'
+url: http://www.gutenberg.org/ebooks/44484
